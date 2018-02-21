@@ -13,3 +13,9 @@ background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freela
 h2.brushes{background-color: mediumspringgreen;}
 h2.frames{background-color: lightcoral;}
 h2.paint{background-color: skyblue}
+
+span {
+  font-weight: bold;
+  color: blue;
+  font-family: Helvetica;
+}
